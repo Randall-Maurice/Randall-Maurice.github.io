@@ -27,7 +27,7 @@
     </div>
 	<nav>
 		<div class="Pages">
-			<a href="../homepage.html"><img border="0" alt="Return to Homepage (Image: Home Icon)" src="../images/HomeIcon.png" width="250"height="250"></a>
+			<a href="../index.html"><img border="0" alt="Return to Homepage (Image: Home Icon)" src="../images/HomeIcon.png" width="250"height="250"></a>
 			<br>
 			<a href="mypage.html"><img border="0" alt="Insights given by yours truly (image: Student Icon)" src="../images/StudentIcon.png" width="250"height="250"></a>
 			<br>
